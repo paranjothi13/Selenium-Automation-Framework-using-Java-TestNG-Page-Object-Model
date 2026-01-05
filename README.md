@@ -6,19 +6,20 @@ Built a scalable Selenium automation framework using Java, TestNG, and Page Obje
 This project is a Selenium Automation Framework developed using Java, TestNG, and Page Object Model (POM).  
 It supports data-driven testing using Excel and cross-browser execution.
 
-## 🔹 Technologies Used
+## 🔹 Framework Design
+- Page Object Model (POM)
+- Data-driven testing using Excel
+- Cross-browser execution
+- Reusable utility classes
+- TestNG lifecycle management
+
+- ## 🔹 Technologies Used
 - Java
 - Selenium WebDriver
 - TestNG
 - Maven
 - Apache POI
 - Git & GitHub
-
-## 🔹 Framework Design
-- Page Object Model (POM)
-- BaseClass for setup & teardown
-- Utility classes for Selenium, Excel, and Properties
-- Data-driven testing using Excel sheets
 
 ## 🔹 Features
 - Cross-browser testing (Chrome, Edge, Firefox)
